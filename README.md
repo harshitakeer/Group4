@@ -1,1 +1,1 @@
-# Group4BacteriaGenomics
+# Group4Bacteria
